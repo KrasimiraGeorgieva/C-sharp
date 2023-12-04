@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34309.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "isTriangle_01", "isTriangle_01\isTriangle_01.csproj", "{C63E1B0E-5809-4BF3-BFA7-ADA96BB0F9FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "isTriangle_01", "isTriangle_01\isTriangle_01.csproj", "{C63E1B0E-5809-4BF3-BFA7-ADA96BB0F9FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "maxNumber_02", "maxNumber_02\maxNumber_02.csproj", "{F79218B7-28D3-4A4B-9A03-9405D32B37B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "multiplicationTable_03", "multiplicationTable_03\multiplicationTable_03.csproj", "{BB3FEFF3-073D-4BD4-B9BC-EE7A4744E118}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{C63E1B0E-5809-4BF3-BFA7-ADA96BB0F9FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C63E1B0E-5809-4BF3-BFA7-ADA96BB0F9FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C63E1B0E-5809-4BF3-BFA7-ADA96BB0F9FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F79218B7-28D3-4A4B-9A03-9405D32B37B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F79218B7-28D3-4A4B-9A03-9405D32B37B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F79218B7-28D3-4A4B-9A03-9405D32B37B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F79218B7-28D3-4A4B-9A03-9405D32B37B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB3FEFF3-073D-4BD4-B9BC-EE7A4744E118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB3FEFF3-073D-4BD4-B9BC-EE7A4744E118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB3FEFF3-073D-4BD4-B9BC-EE7A4744E118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB3FEFF3-073D-4BD4-B9BC-EE7A4744E118}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
